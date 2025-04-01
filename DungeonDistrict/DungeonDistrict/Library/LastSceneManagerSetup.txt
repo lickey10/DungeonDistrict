@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Mapbox/Examples/4_ReplaceFeatures/IconicBuildings.unity
+- path: Assets/Scenes/Main.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
